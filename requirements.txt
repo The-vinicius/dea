@@ -1,0 +1,8 @@
+Django==3.2
+pillow==8.0.1
+django-environ==0.4.5
+django-auditlog==1.0a1
+django-seed==0.3.*
+python-decouple==3.5
+django-extensions==3.1.*
+pytz
